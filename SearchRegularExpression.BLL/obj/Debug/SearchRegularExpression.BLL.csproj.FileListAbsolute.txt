@@ -1,0 +1,10 @@
+C:\Users\Alina\Documents\Visual Studio 2015\Projects\SearchRegularExpression\SearchRegularExpression.BLL\bin\Debug\SearchRegularExpression.BLL.dll
+C:\Users\Alina\Documents\Visual Studio 2015\Projects\SearchRegularExpression\SearchRegularExpression.BLL\bin\Debug\SearchRegularExpression.BLL.pdb
+C:\Users\Alina\Documents\Visual Studio 2015\Projects\SearchRegularExpression\SearchRegularExpression.BLL\bin\Debug\EPPlus.dll
+C:\Users\Alina\Documents\Visual Studio 2015\Projects\SearchRegularExpression\SearchRegularExpression.BLL\bin\Debug\EPPlus.xml
+C:\Users\Alina\Documents\Visual Studio 2015\Projects\SearchRegularExpression\SearchRegularExpression.BLL\obj\Debug\SearchRegularExpression.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Alina\Documents\Visual Studio 2015\Projects\SearchRegularExpression\SearchRegularExpression.BLL\obj\Debug\SearchRegularExpression.BLL.dll
+C:\Users\Alina\Documents\Visual Studio 2015\Projects\SearchRegularExpression\SearchRegularExpression.BLL\obj\Debug\SearchRegularExpression.BLL.pdb
+C:\Users\Alina\Documents\Visual Studio 2015\Projects\SearchRegularExpression\SearchRegularExpression.BLL\bin\Debug\NLog.config
+C:\Users\Alina\Documents\Visual Studio 2015\Projects\SearchRegularExpression\SearchRegularExpression.BLL\bin\Debug\NLog.dll
+C:\Users\Alina\Documents\Visual Studio 2015\Projects\SearchRegularExpression\SearchRegularExpression.BLL\bin\Debug\NLog.xml

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchRegularExpression", "SearchRegularExpression\SearchRegularExpression.csproj", "{603B9682-2341-48D1-AA66-283581F4AEA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchRegularExpression.BLL", "SearchRegularExpression.BLL\SearchRegularExpression.BLL.csproj", "{74828619-A5BC-4655-AEEF-28F1BF2F381F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{603B9682-2341-48D1-AA66-283581F4AEA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{603B9682-2341-48D1-AA66-283581F4AEA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{603B9682-2341-48D1-AA66-283581F4AEA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{603B9682-2341-48D1-AA66-283581F4AEA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74828619-A5BC-4655-AEEF-28F1BF2F381F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74828619-A5BC-4655-AEEF-28F1BF2F381F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74828619-A5BC-4655-AEEF-28F1BF2F381F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74828619-A5BC-4655-AEEF-28F1BF2F381F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

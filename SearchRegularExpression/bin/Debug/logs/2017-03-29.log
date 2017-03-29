@@ -1,0 +1,10 @@
+2017-03-29 22:29:24.2917 INFO Program.Main => SelectionFileFactory.CreateFile => ExcelFile..ctor Excel Object was created
+2017-03-29 22:29:24.3638 INFO AppDomain._nExecuteAssembly => Program.Main => ExcelFile.Recognition Start read excel file
+2017-03-29 22:29:24.6558 INFO AppDomain._nExecuteAssembly => Program.Main => ExcelFile.Recognition End read excel file
+2017-03-29 22:29:24.6678 INFO AppDomain._nExecuteAssembly => Program.Main => ExcelFile.Recognition Number of matches: 3
+2017-03-29 22:30:49.5190 INFO Program.Main => SelectionFileFactory.CreateFile => ExcelFile..ctor Excel Object was created
+2017-03-29 22:30:49.5770 INFO AppDomain._nExecuteAssembly => Program.Main => ExcelFile.Recognition Start read excel file
+2017-03-29 22:30:49.6060 ERROR AppDomain._nExecuteAssembly => Program.Main => ExcelFile.Recognition Файл 'C:\Users\Alina\Documents\Тес кейсы.xlsx' не найден.
+2017-03-29 22:31:28.1454 INFO Program.Main => SelectionFileFactory.CreateFile => ExcelFile..ctor Excel Object was created
+2017-03-29 22:31:28.2034 INFO AppDomain._nExecuteAssembly => Program.Main => ExcelFile.Recognition Start read excel file
+2017-03-29 22:31:28.2493 ERROR AppDomain._nExecuteAssembly => Program.Main => ExcelFile.Recognition Файл 'C:\Users\Alina\Documents\Тес кейсы.xlsx' не найден.

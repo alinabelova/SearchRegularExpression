@@ -1,0 +1,13 @@
+c:\users\alina\documents\visual studio 2015\Projects\SearchRegularExpression\SearchRegularExpression\bin\Debug\SearchRegularExpression.exe.config
+c:\users\alina\documents\visual studio 2015\Projects\SearchRegularExpression\SearchRegularExpression\bin\Debug\SearchRegularExpression.exe
+c:\users\alina\documents\visual studio 2015\Projects\SearchRegularExpression\SearchRegularExpression\bin\Debug\SearchRegularExpression.pdb
+c:\users\alina\documents\visual studio 2015\Projects\SearchRegularExpression\SearchRegularExpression\bin\Debug\EPPlus.dll
+c:\users\alina\documents\visual studio 2015\Projects\SearchRegularExpression\SearchRegularExpression\bin\Debug\EPPlus.xml
+c:\users\alina\documents\visual studio 2015\Projects\SearchRegularExpression\SearchRegularExpression\obj\Debug\SearchRegularExpression.csprojResolveAssemblyReference.cache
+c:\users\alina\documents\visual studio 2015\Projects\SearchRegularExpression\SearchRegularExpression\obj\Debug\SearchRegularExpression.exe
+c:\users\alina\documents\visual studio 2015\Projects\SearchRegularExpression\SearchRegularExpression\obj\Debug\SearchRegularExpression.pdb
+C:\Users\Alina\Documents\Visual Studio 2015\Projects\SearchRegularExpression\SearchRegularExpression\bin\Debug\SearchRegularExpression.BLL.dll
+C:\Users\Alina\Documents\Visual Studio 2015\Projects\SearchRegularExpression\SearchRegularExpression\bin\Debug\SearchRegularExpression.BLL.pdb
+C:\Users\Alina\Documents\Visual Studio 2015\Projects\SearchRegularExpression\SearchRegularExpression\bin\Debug\NLog.config
+C:\Users\Alina\Documents\Visual Studio 2015\Projects\SearchRegularExpression\SearchRegularExpression\bin\Debug\NLog.dll
+C:\Users\Alina\Documents\Visual Studio 2015\Projects\SearchRegularExpression\SearchRegularExpression\bin\Debug\NLog.xml
